@@ -41,7 +41,7 @@ namespace HostFileCreate.Managers
         {
             if (siteHostFile != null && fileName != null)
             {
-                FileStream fs1 = new FileStream("D:\\Yourfile.txt", FileMode.OpenOrCreate, FileAccess.Write);
+                FileStream fs1 = new FileStream($"C:\\{fileName}.txt", FileMode.OpenOrCreate, FileAccess.Write);
                 using (var writer = new StreamWriter(fs1))
                 {
                     foreach (var pair in siteHostFile)

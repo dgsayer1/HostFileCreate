@@ -7162,7 +7162,8 @@
     ".NETCoreApp,Version=v1.1": [
       "Microsoft.NETCore.App >= 1.1.1",
       "Microsoft.Web.Administration >= 10.0.0",
-      "System.IO >= 4.3.0"
+      "System.IO >= 4.3.0",
+      "System.Threading.Tasks >= 4.3.0"
     ]
   },
   "packageFolders": {
@@ -7171,10 +7172,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\documents\\visual studio 2017\\Projects\\HostFileCreate\\HostFileCreate\\HostFileCreate.csproj",
+      "projectUniqueName": "C:\\Git\\HostFileCreate\\HostFileCreate\\HostFileCreate.csproj",
       "projectName": "HostFileCreate",
-      "projectPath": "C:\\Users\\danie\\documents\\visual studio 2017\\Projects\\HostFileCreate\\HostFileCreate\\HostFileCreate.csproj",
-      "outputPath": "C:\\Users\\danie\\documents\\visual studio 2017\\Projects\\HostFileCreate\\HostFileCreate\\obj\\",
+      "projectPath": "C:\\Git\\HostFileCreate\\HostFileCreate\\HostFileCreate.csproj",
+      "outputPath": "C:\\Git\\HostFileCreate\\HostFileCreate\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -7198,6 +7199,10 @@
             "autoReferenced": true
           },
           "System.IO": {
+            "target": "Package",
+            "version": "4.3.0"
+          },
+          "System.Threading.Tasks": {
             "target": "Package",
             "version": "4.3.0"
           }

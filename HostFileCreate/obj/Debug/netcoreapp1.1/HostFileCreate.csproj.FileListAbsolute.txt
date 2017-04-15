@@ -7,3 +7,12 @@ C:\Users\danie\documents\visual studio 2017\Projects\HostFileCreate\HostFileCrea
 C:\Users\danie\documents\visual studio 2017\Projects\HostFileCreate\HostFileCreate\bin\Debug\netcoreapp1.1\HostFileCreate.pdb
 C:\Users\danie\documents\visual studio 2017\Projects\HostFileCreate\HostFileCreate\obj\Debug\netcoreapp1.1\HostFileCreate.dll
 C:\Users\danie\documents\visual studio 2017\Projects\HostFileCreate\HostFileCreate\obj\Debug\netcoreapp1.1\HostFileCreate.pdb
+C:\Git\HostFileCreate\HostFileCreate\bin\Debug\netcoreapp1.1\HostFileCreate.deps.json
+C:\Git\HostFileCreate\HostFileCreate\bin\Debug\netcoreapp1.1\HostFileCreate.runtimeconfig.json
+C:\Git\HostFileCreate\HostFileCreate\bin\Debug\netcoreapp1.1\HostFileCreate.runtimeconfig.dev.json
+C:\Git\HostFileCreate\HostFileCreate\obj\Debug\netcoreapp1.1\HostFileCreate.AssemblyInfo.cs
+C:\Git\HostFileCreate\HostFileCreate\obj\Debug\netcoreapp1.1\HostFileCreate.csprojResolveAssemblyReference.cache
+C:\Git\HostFileCreate\HostFileCreate\bin\Debug\netcoreapp1.1\HostFileCreate.dll
+C:\Git\HostFileCreate\HostFileCreate\bin\Debug\netcoreapp1.1\HostFileCreate.pdb
+C:\Git\HostFileCreate\HostFileCreate\obj\Debug\netcoreapp1.1\HostFileCreate.dll
+C:\Git\HostFileCreate\HostFileCreate\obj\Debug\netcoreapp1.1\HostFileCreate.pdb
